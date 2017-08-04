@@ -16,7 +16,7 @@ This is my personal configuration of Ubuntu 16.04 LTS. I decided to write down t
 	- DNS Servers: 137.189.91.188, 137.189.91.187
 
 
-## Install .deb files:
+## Install .deb files
 ``` bash
 $sudo dpkg -i ./name-of-the-file
 $sudo apt install -f

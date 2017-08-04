@@ -1846,3 +1846,467 @@
 {"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":13289,"level":20,"msg":"Rendering post: \u001b[35m2017/08/03/My_Ubuntu_Configuration/index.html\u001b[39m","time":"2017-08-03T22:20:14.679Z","v":0}
 {"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":13289,"level":30,"msg":"Catch you later","time":"2017-08-03T22:20:44.072Z","v":0}
 {"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":13289,"level":20,"msg":"Database saved","time":"2017-08-03T22:20:44.108Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Hexo version: \u001b[35m3.3.8\u001b[39m","time":"2017-08-03T22:30:25.509Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Working directory: \u001b[35m~/Documents/codes/website/\u001b[39m","time":"2017-08-03T22:30:25.511Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Config loaded: \u001b[35m~/Documents/codes/website/_config.yml\u001b[39m","time":"2017-08-03T22:30:25.583Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-08-03T22:30:25.592Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-08-03T22:30:25.593Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-08-03T22:30:25.594Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-08-03T22:30:25.595Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-08-03T22:30:25.597Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-08-03T22:30:25.597Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-08-03T22:30:25.601Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2017-08-03T22:30:25.603Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2017-08-03T22:30:25.603Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-08-03T22:30:25.642Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2017-08-03T22:30:25.642Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/label.js\u001b[39m","time":"2017-08-03T22:30:25.642Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2017-08-03T22:30:25.643Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2017-08-03T22:30:25.643Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2017-08-03T22:30:25.644Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/lazy-image.js\u001b[39m","time":"2017-08-03T22:30:25.644Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2017-08-03T22:30:25.646Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/tabs.js\u001b[39m","time":"2017-08-03T22:30:25.646Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2017-08-03T22:30:25.646Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Loading database.","time":"2017-08-03T22:30:25.652Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":30,"msg":"Start processing","time":"2017-08-03T22:30:25.658Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mindex.md\u001b[39m","time":"2017-08-03T22:30:25.739Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Theme config loaded.","time":"2017-08-03T22:30:25.766Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-08-03T22:30:25.766Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/algolia_logo.svg\u001b[39m","time":"2017-08-03T22:30:25.773Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/css/main.styl\u001b[39m","time":"2017-08-03T22:30:25.774Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/avatar.gif\u001b[39m","time":"2017-08-03T22:30:25.774Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-nd.svg\u001b[39m","time":"2017-08-03T22:30:25.778Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-sa.svg\u001b[39m","time":"2017-08-03T22:30:25.779Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc.svg\u001b[39m","time":"2017-08-03T22:30:25.779Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by.svg\u001b[39m","time":"2017-08-03T22:30:25.780Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-sa.svg\u001b[39m","time":"2017-08-03T22:30:25.780Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nd.svg\u001b[39m","time":"2017-08-03T22:30:25.781Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/cc-zero.svg\u001b[39m","time":"2017-08-03T22:30:25.782Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/placeholder.gif\u001b[39m","time":"2017-08-03T22:30:25.783Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/loading.gif\u001b[39m","time":"2017-08-03T22:30:25.786Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/quote-l.svg\u001b[39m","time":"2017-08-03T22:30:25.786Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/searchicon.png\u001b[39m","time":"2017-08-03T22:30:25.787Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/images/quote-r.svg\u001b[39m","time":"2017-08-03T22:30:25.787Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mblogs/hello-world.md\u001b[39m","time":"2017-08-03T22:30:25.812Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mcategories/index.md\u001b[39m","time":"2017-08-03T22:30:25.813Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2017-08-03T22:30:25.814Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mtags/index.md\u001b[39m","time":"2017-08-03T22:30:25.814Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mwiki/index.md\u001b[39m","time":"2017-08-03T22:30:25.814Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35m_posts/My_Ubuntu_Configuration.md\u001b[39m","time":"2017-08-03T22:30:25.815Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35m_posts/test-tags-cates.md\u001b[39m","time":"2017-08-03T22:30:25.816Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_layout.swig\u001b[39m","time":"2017-08-03T22:30:25.938Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/category.swig\u001b[39m","time":"2017-08-03T22:30:25.939Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/archive.swig\u001b[39m","time":"2017-08-03T22:30:25.939Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/index.swig\u001b[39m","time":"2017-08-03T22:30:25.939Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/tag.swig\u001b[39m","time":"2017-08-03T22:30:25.939Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/post.swig\u001b[39m","time":"2017-08-03T22:30:25.939Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/schedule.swig\u001b[39m","time":"2017-08-03T22:30:25.940Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/page.swig\u001b[39m","time":"2017-08-03T22:30:25.942Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2017-08-03T22:30:25.948Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2017-08-03T22:30:25.948Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/id.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/ja.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/pt-BR.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-Hans.yml\u001b[39m","time":"2017-08-03T22:30:25.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/algolia-search.js\u001b[39m","time":"2017-08-03T22:30:25.950Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/affix.js\u001b[39m","time":"2017-08-03T22:30:25.950Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/bootstrap.js\u001b[39m","time":"2017-08-03T22:30:25.950Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/hook-duoshuo.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/exturl.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/js.cookie.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/motion.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/post-details.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/scroll-cookie.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/scrollspy.js\u001b[39m","time":"2017-08-03T22:30:25.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/utils.js\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-nest/canvas-nest.min.js\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.css\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-ribbon/canvas-ribbon.js\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/LICENSE\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/README.md\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/bower.json\u001b[39m","time":"2017-08-03T22:30:25.952Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/CONTRIBUTING.md\u001b[39m","time":"2017-08-03T22:30:25.953Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/README.md\u001b[39m","time":"2017-08-03T22:30:25.953Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/bower.json\u001b[39m","time":"2017-08-03T22:30:25.953Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.lazyload.js\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.scrollstop.js\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/HELP-US-OUT.txt\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/bower.json\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-barber-shop.min.css\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-big-counter.min.css\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-bounce.min.css\u001b[39m","time":"2017-08-03T22:30:25.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-atom.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-circle.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-radar.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-simple.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-corner-indicator.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-flash.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-fill-left.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-loading-bar.min.css\u001b[39m","time":"2017-08-03T22:30:25.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-mac-osx.min.css\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-minimal.min.css\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace.min.js\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_lines.min.js\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_sphere.min.js\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three-waves.min.js\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/bower.json\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.min.js\u001b[39m","time":"2017-08-03T22:30:25.956Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.js\u001b[39m","time":"2017-08-03T22:30:25.957Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.min.js\u001b[39m","time":"2017-08-03T22:30:25.957Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/sidebar.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/header.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-collapse.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-copyright.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/reward.swig\u001b[39m","time":"2017-08-03T22:30:26.000Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/sidebar.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/wechat-subscriber.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/comments.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/footer.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/header.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/page-header.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/pagination.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/commons.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/boostrap.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/exturl.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/duoshuo-hot-articles.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/vendors.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/mathjax.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/rating.swig\u001b[39m","time":"2017-08-03T22:30:26.001Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/scroll-cookie.swig\u001b[39m","time":"2017-08-03T22:30:26.002Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/schedule.swig\u001b[39m","time":"2017-08-03T22:30:26.002Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-hk.yml\u001b[39m","time":"2017-08-03T22:30:26.002Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery/index.js\u001b[39m","time":"2017-08-03T22:30:26.002Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/muse.swig\u001b[39m","time":"2017-08-03T22:30:26.006Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/mist.swig\u001b[39m","time":"2017-08-03T22:30:26.006Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/js/src/schemes/pisces.js\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.css\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.css\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.js\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/blank.gif\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading.gif\u001b[39m","time":"2017-08-03T22:30:26.008Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading@2x.gif\u001b[39m","time":"2017-08-03T22:30:26.009Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_overlay.png\u001b[39m","time":"2017-08-03T22:30:26.009Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite.png\u001b[39m","time":"2017-08-03T22:30:26.009Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite@2x.png\u001b[39m","time":"2017-08-03T22:30:26.010Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.css\u001b[39m","time":"2017-08-03T22:30:26.010Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.pack.js\u001b[39m","time":"2017-08-03T22:30:26.010Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.js\u001b[39m","time":"2017-08-03T22:30:26.010Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.js\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.min.js\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css.map\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.min.css\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.min.js\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.pack.js\u001b[39m","time":"2017-08-03T22:30:26.011Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/custom-head.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/localsearch.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/swiftype.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/external-fonts.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/tinysou.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/add-this.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/duoshuo_share.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/jiathis.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/pages/post-details.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/pisces.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/gemini.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/baidushare.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/application-insights.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/busuanzi-counter.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/cnzz-analytics.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/baidu-analytics.swig\u001b[39m","time":"2017-08-03T22:30:26.028Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/facebook-sdk.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/index.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/google-analytics.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/lean-analytics.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-analytics.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-mta.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/vkontakte-api.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/changyan.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/duoshuo.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/livere.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/hypercomments.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/index.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/youyan.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/disqus.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/seo/baidu-push.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/index.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/localsearch.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/tinysou.swig\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.js\u001b[39m","time":"2017-08-03T22:30:26.029Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff\u001b[39m","time":"2017-08-03T22:30:26.030Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff2\u001b[39m","time":"2017-08-03T22:30:26.030Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.js\u001b[39m","time":"2017-08-03T22:30:26.030Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.otf\u001b[39m","time":"2017-08-03T22:30:26.034Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.woff\u001b[39m","time":"2017-08-03T22:30:26.034Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.otf\u001b[39m","time":"2017-08-03T22:30:26.034Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff\u001b[39m","time":"2017-08-03T22:30:26.034Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/fancybox_buttons.png\u001b[39m","time":"2017-08-03T22:30:26.034Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2017-08-03T22:30:26.042Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2017-08-03T22:30:26.042Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-media.js\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/FontAwesome.otf\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.eot\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2017-08-03T22:30:26.043Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/dom.swig\u001b[39m","time":"2017-08-03T22:30:26.044Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.js\u001b[39m","time":"2017-08-03T22:30:26.045Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/assets.swig\u001b[39m","time":"2017-08-03T22:30:26.046Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three.min.js\u001b[39m","time":"2017-08-03T22:30:26.046Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.svg\u001b[39m","time":"2017-08-03T22:30:26.046Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-08-03T22:30:26.237Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-08-03T22:30:26.238Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2017-08-03T22:30:26.243Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Database saved","time":"2017-08-03T22:30:26.256Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Rendering page: \u001b[35mindex.html\u001b[39m","time":"2017-08-03T22:30:31.010Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Rendering page: \u001b[35mwiki/index.html\u001b[39m","time":"2017-08-03T22:30:33.421Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Rendering index: \u001b[35mblogs/index.html\u001b[39m","time":"2017-08-03T22:30:35.554Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":30,"msg":"Good bye","time":"2017-08-03T22:30:53.198Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":14345,"level":20,"msg":"Database saved","time":"2017-08-03T22:30:53.226Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Hexo version: \u001b[35m3.3.8\u001b[39m","time":"2017-08-04T09:31:08.809Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Working directory: \u001b[35m~/Documents/codes/website/\u001b[39m","time":"2017-08-04T09:31:08.811Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Config loaded: \u001b[35m~/Documents/codes/website/_config.yml\u001b[39m","time":"2017-08-04T09:31:08.885Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-08-04T09:31:08.900Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-08-04T09:31:08.902Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-08-04T09:31:08.903Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-08-04T09:31:08.904Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-08-04T09:31:08.907Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-08-04T09:31:08.909Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-08-04T09:31:08.910Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-08-04T09:31:08.910Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-08-04T09:31:08.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/center-quote.js\u001b[39m","time":"2017-08-04T09:31:08.949Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge-configs.js\u001b[39m","time":"2017-08-04T09:31:08.951Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/merge.js\u001b[39m","time":"2017-08-04T09:31:08.953Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/button.js\u001b[39m","time":"2017-08-04T09:31:08.953Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/exturl.js\u001b[39m","time":"2017-08-04T09:31:08.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/full-image.js\u001b[39m","time":"2017-08-04T09:31:08.954Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/group-pictures.js\u001b[39m","time":"2017-08-04T09:31:08.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/label.js\u001b[39m","time":"2017-08-04T09:31:08.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/lazy-image.js\u001b[39m","time":"2017-08-04T09:31:08.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/note.js\u001b[39m","time":"2017-08-04T09:31:08.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Script loaded: \u001b[35mthemes/next/scripts/tags/tabs.js\u001b[39m","time":"2017-08-04T09:31:08.955Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Loading database.","time":"2017-08-04T09:31:08.975Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":30,"msg":"Start processing","time":"2017-08-04T09:31:08.981Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mindex.md\u001b[39m","time":"2017-08-04T09:31:09.109Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Theme config loaded.","time":"2017-08-04T09:31:09.133Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35m_config.yml\u001b[39m","time":"2017-08-04T09:31:09.134Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/css/main.styl\u001b[39m","time":"2017-08-04T09:31:09.135Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/avatar.gif\u001b[39m","time":"2017-08-04T09:31:09.137Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/algolia_logo.svg\u001b[39m","time":"2017-08-04T09:31:09.137Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-sa.svg\u001b[39m","time":"2017-08-04T09:31:09.138Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc.svg\u001b[39m","time":"2017-08-04T09:31:09.139Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nd.svg\u001b[39m","time":"2017-08-04T09:31:09.139Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-nc-nd.svg\u001b[39m","time":"2017-08-04T09:31:09.139Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by.svg\u001b[39m","time":"2017-08-04T09:31:09.140Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-zero.svg\u001b[39m","time":"2017-08-04T09:31:09.141Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/cc-by-sa.svg\u001b[39m","time":"2017-08-04T09:31:09.142Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/loading.gif\u001b[39m","time":"2017-08-04T09:31:09.142Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/placeholder.gif\u001b[39m","time":"2017-08-04T09:31:09.146Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/quote-l.svg\u001b[39m","time":"2017-08-04T09:31:09.147Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/quote-r.svg\u001b[39m","time":"2017-08-04T09:31:09.148Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/images/searchicon.png\u001b[39m","time":"2017-08-04T09:31:09.148Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_layout.swig\u001b[39m","time":"2017-08-04T09:31:09.263Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/archive.swig\u001b[39m","time":"2017-08-04T09:31:09.264Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/index.swig\u001b[39m","time":"2017-08-04T09:31:09.265Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/page.swig\u001b[39m","time":"2017-08-04T09:31:09.265Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/tag.swig\u001b[39m","time":"2017-08-04T09:31:09.265Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/category.swig\u001b[39m","time":"2017-08-04T09:31:09.265Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mblogs/hello-world.md\u001b[39m","time":"2017-08-04T09:31:09.276Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/default.yml\u001b[39m","time":"2017-08-04T09:31:09.278Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/de.yml\u001b[39m","time":"2017-08-04T09:31:09.279Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/en.yml\u001b[39m","time":"2017-08-04T09:31:09.279Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/fr-FR.yml\u001b[39m","time":"2017-08-04T09:31:09.279Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/id.yml\u001b[39m","time":"2017-08-04T09:31:09.279Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/ko.yml\u001b[39m","time":"2017-08-04T09:31:09.280Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/ja.yml\u001b[39m","time":"2017-08-04T09:31:09.280Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/pt-BR.yml\u001b[39m","time":"2017-08-04T09:31:09.280Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/pt.yml\u001b[39m","time":"2017-08-04T09:31:09.280Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-Hans.yml\u001b[39m","time":"2017-08-04T09:31:09.281Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-tw.yml\u001b[39m","time":"2017-08-04T09:31:09.281Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/zh-hk.yml\u001b[39m","time":"2017-08-04T09:31:09.281Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlanguages/ru.yml\u001b[39m","time":"2017-08-04T09:31:09.281Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mcategories/index.md\u001b[39m","time":"2017-08-04T09:31:09.282Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2017-08-04T09:31:09.282Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mtags/index.md\u001b[39m","time":"2017-08-04T09:31:09.283Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mwiki/index.md\u001b[39m","time":"2017-08-04T09:31:09.284Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35m_posts/My_Ubuntu_Configuration.md\u001b[39m","time":"2017-08-04T09:31:09.284Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35m_posts/test-tags-cates.md\u001b[39m","time":"2017-08-04T09:31:09.286Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/affix.js\u001b[39m","time":"2017-08-04T09:31:09.288Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/algolia-search.js\u001b[39m","time":"2017-08-04T09:31:09.288Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/bootstrap.js\u001b[39m","time":"2017-08-04T09:31:09.288Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/exturl.js\u001b[39m","time":"2017-08-04T09:31:09.289Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/hook-duoshuo.js\u001b[39m","time":"2017-08-04T09:31:09.289Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/motion.js\u001b[39m","time":"2017-08-04T09:31:09.289Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/js.cookie.js\u001b[39m","time":"2017-08-04T09:31:09.289Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/post-details.js\u001b[39m","time":"2017-08-04T09:31:09.289Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/scroll-cookie.js\u001b[39m","time":"2017-08-04T09:31:09.290Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/scrollspy.js\u001b[39m","time":"2017-08-04T09:31:09.290Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/utils.js\u001b[39m","time":"2017-08-04T09:31:09.290Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.css\u001b[39m","time":"2017-08-04T09:31:09.291Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-nest/canvas-nest.min.js\u001b[39m","time":"2017-08-04T09:31:09.291Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/canvas-ribbon/canvas-ribbon.js\u001b[39m","time":"2017-08-04T09:31:09.291Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/LICENSE\u001b[39m","time":"2017-08-04T09:31:09.291Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/README.md\u001b[39m","time":"2017-08-04T09:31:09.291Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/bower.json\u001b[39m","time":"2017-08-04T09:31:09.292Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/HELP-US-OUT.txt\u001b[39m","time":"2017-08-04T09:31:09.292Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/bower.json\u001b[39m","time":"2017-08-04T09:31:09.293Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/CONTRIBUTING.md\u001b[39m","time":"2017-08-04T09:31:09.293Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/README.md\u001b[39m","time":"2017-08-04T09:31:09.293Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/bower.json\u001b[39m","time":"2017-08-04T09:31:09.293Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.lazyload.js\u001b[39m","time":"2017-08-04T09:31:09.294Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery_lazyload/jquery.scrollstop.js\u001b[39m","time":"2017-08-04T09:31:09.294Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-big-counter.min.css\u001b[39m","time":"2017-08-04T09:31:09.294Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-barber-shop.min.css\u001b[39m","time":"2017-08-04T09:31:09.294Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-bounce.min.css\u001b[39m","time":"2017-08-04T09:31:09.294Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-atom.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-circle.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-radar.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-center-simple.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-corner-indicator.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-fill-left.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-flash.min.css\u001b[39m","time":"2017-08-04T09:31:09.295Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-loading-bar.min.css\u001b[39m","time":"2017-08-04T09:31:09.296Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-mac-osx.min.css\u001b[39m","time":"2017-08-04T09:31:09.296Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace-theme-minimal.min.css\u001b[39m","time":"2017-08-04T09:31:09.296Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/pace/pace.min.js\u001b[39m","time":"2017-08-04T09:31:09.296Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_lines.min.js\u001b[39m","time":"2017-08-04T09:31:09.296Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/three/canvas_sphere.min.js\u001b[39m","time":"2017-08-04T09:31:09.297Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three-waves.min.js\u001b[39m","time":"2017-08-04T09:31:09.297Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/bower.json\u001b[39m","time":"2017-08-04T09:31:09.297Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.min.js\u001b[39m","time":"2017-08-04T09:31:09.298Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.js\u001b[39m","time":"2017-08-04T09:31:09.298Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.ui.min.js\u001b[39m","time":"2017-08-04T09:31:09.298Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/post.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/schedule.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/header.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_custom/sidebar.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-copyright.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post-collapse.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/reward.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/post.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/wechat-subscriber.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_macro/sidebar.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/comments.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/footer.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/header.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head.swig\u001b[39m","time":"2017-08-04T09:31:09.406Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/pagination.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/page-header.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/commons.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/boostrap.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/vendors.swig\u001b[39m","time":"2017-08-04T09:31:09.407Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/jquery/index.js\u001b[39m","time":"2017-08-04T09:31:09.408Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/schedule.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/exturl.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/mathjax.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/rating.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/duoshuo-hot-articles.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/scroll-cookie.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/mist.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/muse.swig\u001b[39m","time":"2017-08-04T09:31:09.416Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/js/src/schemes/pisces.js\u001b[39m","time":"2017-08-04T09:31:09.417Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.css\u001b[39m","time":"2017-08-04T09:31:09.418Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.css\u001b[39m","time":"2017-08-04T09:31:09.419Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.min.js\u001b[39m","time":"2017-08-04T09:31:09.419Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/blank.gif\u001b[39m","time":"2017-08-04T09:31:09.419Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading.gif\u001b[39m","time":"2017-08-04T09:31:09.419Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_loading@2x.gif\u001b[39m","time":"2017-08-04T09:31:09.420Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_overlay.png\u001b[39m","time":"2017-08-04T09:31:09.421Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite.png\u001b[39m","time":"2017-08-04T09:31:09.421Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/fancybox_sprite@2x.png\u001b[39m","time":"2017-08-04T09:31:09.421Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.css\u001b[39m","time":"2017-08-04T09:31:09.421Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.js\u001b[39m","time":"2017-08-04T09:31:09.422Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/jquery.fancybox.pack.js\u001b[39m","time":"2017-08-04T09:31:09.422Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.js\u001b[39m","time":"2017-08-04T09:31:09.422Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fastclick/lib/fastclick.min.js\u001b[39m","time":"2017-08-04T09:31:09.422Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css\u001b[39m","time":"2017-08-04T09:31:09.423Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.css.map\u001b[39m","time":"2017-08-04T09:31:09.423Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/css/font-awesome.min.css\u001b[39m","time":"2017-08-04T09:31:09.423Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.min.js\u001b[39m","time":"2017-08-04T09:31:09.423Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/ua-parser-js/dist/ua-parser.pack.js\u001b[39m","time":"2017-08-04T09:31:09.423Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/add-this.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/custom-head.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/head/external-fonts.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/jiathis.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/duoshuo_share.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/localsearch.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/share/baidushare.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/tinysou.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/gemini.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/schemes/pisces.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_partials/search/swiftype.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_scripts/pages/post-details.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/application-insights.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/baidu-analytics.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/google-analytics.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/facebook-sdk.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/cnzz-analytics.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/index.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/busuanzi-counter.swig\u001b[39m","time":"2017-08-04T09:31:09.434Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-mta.swig\u001b[39m","time":"2017-08-04T09:31:09.435Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/lean-analytics.swig\u001b[39m","time":"2017-08-04T09:31:09.435Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/tencent-analytics.swig\u001b[39m","time":"2017-08-04T09:31:09.435Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/han.js\u001b[39m","time":"2017-08-04T09:31:09.436Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff\u001b[39m","time":"2017-08-04T09:31:09.436Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.woff2\u001b[39m","time":"2017-08-04T09:31:09.436Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/velocity/velocity.js\u001b[39m","time":"2017-08-04T09:31:09.436Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/disqus.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/analytics/vkontakte-api.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/hypercomments.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/duoshuo.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/changyan.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/index.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/youyan.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/comments/livere.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/index.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/tinysou.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/localsearch.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/seo/baidu-push.swig\u001b[39m","time":"2017-08-04T09:31:09.446Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.otf\u001b[39m","time":"2017-08-04T09:31:09.448Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han-space.woff\u001b[39m","time":"2017-08-04T09:31:09.448Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.otf\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/Han/dist/font/han.woff\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/fancybox_buttons.png\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.css\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-buttons.js\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-media.js\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css\u001b[39m","time":"2017-08-04T09:31:09.449Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js\u001b[39m","time":"2017-08-04T09:31:09.450Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/FontAwesome.otf\u001b[39m","time":"2017-08-04T09:31:09.450Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.eot\u001b[39m","time":"2017-08-04T09:31:09.450Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.ttf\u001b[39m","time":"2017-08-04T09:31:09.450Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/assets.swig\u001b[39m","time":"2017-08-04T09:31:09.460Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35mlayout/_third-party/search/algolia-search/dom.swig\u001b[39m","time":"2017-08-04T09:31:09.460Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/algolia-instant-search/instantsearch.min.js\u001b[39m","time":"2017-08-04T09:31:09.460Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/three/three.min.js\u001b[39m","time":"2017-08-04T09:31:09.461Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Processed: \u001b[35msource/lib/font-awesome/fonts/fontawesome-webfont.svg\u001b[39m","time":"2017-08-04T09:31:09.462Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-08-04T09:31:09.663Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-08-04T09:31:09.664Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-08-04T09:31:09.664Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-08-04T09:31:09.664Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-08-04T09:31:09.664Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-08-04T09:31:09.664Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-08-04T09:31:09.665Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000/\u001b[24m. Press Ctrl+C to stop.","time":"2017-08-04T09:31:09.671Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Database saved","time":"2017-08-04T09:31:09.680Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Rendering page: \u001b[35mindex.html\u001b[39m","time":"2017-08-04T09:31:11.740Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Rendering page: \u001b[35mwiki/index.html\u001b[39m","time":"2017-08-04T09:31:15.750Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":30,"msg":"Good bye","time":"2017-08-04T09:31:19.050Z","v":0}
+{"name":"hexo","hostname":"liuxt-HP-Z440-Workstation","pid":37264,"level":20,"msg":"Database saved","time":"2017-08-04T09:31:19.071Z","v":0}
