@@ -6,6 +6,7 @@ install:
   - npm install  #安装hexo及插件
 
 script:
+  - git clone https://github.com/iissnan/hexo-theme-next themes/next
   - hexo cl  #清除
   - hexo g  #生成
 
