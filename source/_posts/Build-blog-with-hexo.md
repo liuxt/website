@@ -223,7 +223,27 @@ menu:
   categories: /categories
 ```
 
-### Bind blogs to blog directory and free home page
-If we use default config file, the home page is blogs index page. If we want to set our website home page to other contents like About ME. We need to do the following steps.
+### Bind blogs to blog directory and reset home page
+If we use the default config file, the home page is blogs' index page. If we want to set our website home page to other contents like About ME. We need to do the following steps.
 
-####
+#### Change index page to blog folder
+In `website config file`, edit the `index_generator` field
+``` bash
+index_generator:
+  path: blogs # put generated index here
+  per_page: 10
+  order_by: -date
+```
+
+#### Reset home page
+In `/source` directory, create a new file named `index.md`, edit it just as the posts in your blog.
+
+## Auto-update using Travis.ci
+Previously, we have to type `hexo g`, `hexo d` to deploy our website every time we make some changes. With [Travis.ci](https://travis-ci.org/), we can automatically update our blog when we finish pushing our changes to github. I have followed [this tutorial](http://www.jianshu.com/p/5e74046e7a0f).
+
+## Get my own domain
+Github has provided an education pack including 1-year free domain service. After verifying the account using an edu email, we can get our own domain(for me, it is xutongliu.me). Then we can easily use our own domain by adding a `CNAME` file with `your-domain-name` e.g `xutongliu.me` in it.
+
+Finally, type `xutongliu.me` in chrome, I can have our blog just in front of me :).
+
+
