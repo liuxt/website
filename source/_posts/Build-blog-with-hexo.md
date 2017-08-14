@@ -244,6 +244,24 @@ Previously, we have to type `hexo g`, `hexo d` to deploy our website every time 
 ## Get my own domain
 Github has provided an education pack including 1-year free domain service. After verifying the account using an edu email, we can get our own domain(for me, it is xutongliu.me). Then we can easily use our own domain by adding a `CNAME` file with `your-domain-name` e.g `xutongliu.me` in it.
 
+## Using HTTPs for my domain
+I use [CloudFlare](https://www.cloudflare.com/) and mainly follow [this](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html) tutorial with slight modification.
+
+### Migrate DNS server to CloudFlare
+First sign up for CloudFlare and enter your website name for scanning. Click next all the way and you can get 2 DNS name server domains like this.
+
+``` bash
+nitin.ns.cloudflare.com
+reza.ns.cloudflare.com
+```
+After that, put these two adresses in your domain cofiguration(for me, it is in Namecheap configuration). Note that this migration needs a little time to take effect. 
+
+### Force Redirection
+I can basically access my blog with security guarantee by typing https://xutongliu.me in chrome. What about http://xutongliu.me? It still can access my blog. So we need to force redirection to https address of my blog.
+
+To solve this problem, add 2 rules to `Page Rules` tab.
+![2 rules](http://ouodrpm7j.bkt.clouddn.com/page-rules.png)
+
 Finally, type `xutongliu.me` in chrome, I can have our blog just in front of me :).
 
 
