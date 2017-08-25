@@ -3,12 +3,14 @@ title: Wiki
 date: 2017-08-03 20:58:01
 ---
 # Cheet sheets
+[Matrix Cookbook](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiEk46uuurVAhWFy7wKHerYBnAQFggmMAA&url=http%3A%2F%2Fwww.imm.dtu.dk%2Fpubdb%2Fviews%2Fedoc_download.php%2F3274%2Fpdf%2Fimm3274.pdf&usg=AFQjCNFJbycDGy_rsijRk8x9LE8C1v4Mpw)
 
 # Meta-Lists
 
 # Websites
 
-# Courses
+# Courses/Lectures
+[videolecture.net](http://videolectures.net/)
 
 # Tutorial
 [Pytorch](http://pytorch.org/tutorials/)
