@@ -29,7 +29,13 @@ date: 2017-08-03 20:58:01
 # Language Learning
 
 ## Python
+
+### Basic grammer and design technique
 - [Learning Python Book by David Ascher and Mark Lutz](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf)
+
+### Useful Packages
+[NetworkX](https://networkx.github.io/)-Software for complex networks
+[Tensorflow](https://www.tensorflow.org/)-Open source software library for Machine Intelligence
 
 ## C++
 - [C++ Primer](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
