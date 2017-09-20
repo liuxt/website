@@ -36,6 +36,7 @@ date: 2017-08-03 20:58:01
 ### Useful Packages
 - [NetworkX](https://networkx.github.io/)-Software for complex networks
 - [Tensorflow](https://www.tensorflow.org/)-Open source software library for Machine Intelligence
+- [h5py](http://www.h5py.org/)a Pythonic interface to the HDF5 binary data format.
 
 ### Tips
 - [Difference Between Python2.X and Python3.X](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
