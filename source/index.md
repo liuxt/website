@@ -5,7 +5,7 @@ I am currently a first-year Ph.D.student in the Department of Computer Science &
 
 My major interests are Machine Learning and Data Mining techiques as well as Statistic Modeling. I am also interested in network science, including research in social networks.
 
-My CV is here/这里
+My CV is [here](http://owk4gfyq5.bkt.clouddn.com/Copy%20of%20%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86%20%281%29.pdf)/这里
 
 In my spare time, I love playing basketball and I am a big fan of [KING JAMES](https://en.wikipedia.org/wiki/LeBron_James)(that is why I choose “James” as my English name). Music is also my favorite. I like listening to all kinds of music and can play a little guitar, ukelele and piano.
 
