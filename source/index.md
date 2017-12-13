@@ -12,9 +12,14 @@ In my spare time, I love playing basketball and I am a big fan of [KING JAMES](h
 More about me can be found [here](https://xutongliu.me/wiki/).
 
 ## Paper
-I am currently involved in one work for INFOCOM 2018 and not published yet.
+K. Cai, X. Liu, Y. Chen, and John C.S. Lui. An Online Learning Approach to Network Application Optimization with Guarantee. IEEE International Conference on Computer Communications (**INFOCOM**), 2018. [[BibTex]](http://owk4gfyq5.bkt.clouddn.com/BibTex.txt)
 
 ## Teaching
+CSCI-2040 Introduction to Python.
+
+## Courses
+ENGG-5501 Foundation of Optimization.
+IERG-5130 Probabilistic Models and Inference Algorithms for Machine Learning.
 
 ## Contact 
 Email:

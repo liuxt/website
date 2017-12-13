@@ -68,11 +68,7 @@ $ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64\
 
 After this, we should check 2 things:
 
-1. If the driver is properly installed by:
-
-``` bash
-nvidia-smi # check if driver is properly installed
-```
+1. If the driver is properly installed by `nvidia-smi`
 
 2. Run some samples in `/usr/local/cuda-8.0/samples` to check CUDA.
 
