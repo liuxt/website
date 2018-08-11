@@ -1,9 +1,9 @@
 ---
 title: About me
 ---
-I am currently a first-year Ph.D.student in the Department of Computer Science & Engineering at The Chinese University of Hong Kong. I am a member of Advanced Networking and System Research Laboratory ([ANSRLab](http://ansrlab.cse.cuhk.edu.hk/)) and my supervisor is [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). I receive my bachelor’s degree with honered rank(top 5% students) in the Department of Computer Science and Technology at University of Science and Technology of China in 2017.
+I am currently a second-year Ph.D. student in the Department of Computer Science & Engineering at The Chinese University of Hong Kong. I am a member of Advanced Networking and System Research Laboratory ([ANSRLab](http://ansrlab.cse.cuhk.edu.hk/)) and my supervisor is [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). I receive my bachelor’s degree with honered rank(top 5% students) in the Department of Computer Science and Technology at University of Science and Technology of China in 2017.
 
-My major interests are Machine Learning and Data Mining techiques as well as Statistic Modeling. I am also interested in network science, including research in social networks.
+My major interests are Machine Learning and Data Mining techiques as well as Statistic Modeling. Among them, online learning and reinforcement learning are my recent research focus. In addiction, I am interested in network science, including research in social networks.
 
 My CV is [here](http://owk4gfyq5.bkt.clouddn.com/cv.pdf)/这里
 
@@ -16,10 +16,13 @@ K. Cai, X. Liu, Y. Chen, and John C.S. Lui. An Online Learning Approach to Netwo
 
 ## Teaching
 CSCI-2040 Introduction to Python.
+CSCI-3320 Foundamentals of Machine Learning.
 
 ## Courses
 ENGG-5501 Foundation of Optimization.
 IERG-5130 Probabilistic Models and Inference Algorithms for Machine Learning.
+CSCI-5160 Advanced Algorithms.
+STAT-5020 Topics in Multivariate Analysis.
 
 ## Contact 
 Email:
