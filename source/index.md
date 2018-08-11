@@ -28,6 +28,6 @@ STAT-5020 Topics in Multivariate Analysis.
 Email:
 liuxt2371 AT gmail DOT com
 Address:
-Rm.120, SHB, CUHK, Shatin, N.T., Hongkong
+Rm.120, SHB, CUHK, Shatin, N.T., Hongkong.
 
 
