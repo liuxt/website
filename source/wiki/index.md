@@ -94,7 +94,6 @@ date: 2017-08-03 20:58:01
 
 # Chicken Soup
 [Have no idea what you want to do in life.](https://www.facebook.com/scmp/videos/10155605945539820/)
-[在人际交往中你悟出过什么道理？](https://www.zhihu.com/question/35471739)
 
 # Photography
 [1x Community](https://1x.com/)
