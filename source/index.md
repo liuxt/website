@@ -5,14 +5,18 @@ I am currently a second-year Ph.D. student in the Department of Computer Science
 
 My major interests are Machine Learning and Data Mining techiques as well as Statistic Modeling. Among them, online learning and reinforcement learning are my recent research focus. In addiction, I am interested in network science, including research in social networks.
 
-My CV is [here](http://owk4gfyq5.bkt.clouddn.com/cv.pdf)/这里
+My CV is [here](http://appsrv.cse.cuhk.edu.hk/~liuxt/Resume.pdf)/这里
 
 In my spare time, I love playing basketball and I am a big fan of [KING JAMES](https://en.wikipedia.org/wiki/LeBron_James)(that is why I choose “James” as my English name). Music is also my favorite. I like listening to all kinds of music and can play a little guitar, ukelele and piano.
 
 More about me can be found [here](https://xutongliu.me/wiki/).
 
 ## Paper
-K. Cai, X. Liu, Y. Chen, and John C.S. Lui. An Online Learning Approach to Network Application Optimization with Guarantee. IEEE International Conference on Computer Communications (**INFOCOM**), 2018. [[BibTex]](http://owk4gfyq5.bkt.clouddn.com/BibTex.txt)
+
+**Xutong Liu**, Yu-Zhen Chen, John Lui, Konstantin Avrachenkov. Graphlet Count Estimation via Convolutional Neural Networks. (Extended Abstract) COMPLEX NETWORKS 2018. [[PDF]](https://hal.inria.fr/hal-01936850/file/camera-ready.pdf)
+
+K. Cai, **X. Liu**, Y. Chen, and John C.S. Lui. An Online Learning Approach to Network Application Optimization with Guarantee. IEEE International Conference on Computer Communications (**INFOCOM**), 2018. [[PDF]](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)
+
 
 ## Teaching
 CSCI-2040 Introduction to Python.
