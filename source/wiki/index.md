@@ -7,7 +7,8 @@ date: 2017-08-03 20:58:01
 
 # Meta-Lists
 
-# Websites
+# Useful Skills
+[Paper templates and tricks by Yishi Lin](https://dango.rocks/blog/2017/02/08/my-paper-templates-and-tricks/)
 
 # Courses/Lectures
 [videolecture.net](http://videolectures.net/)
